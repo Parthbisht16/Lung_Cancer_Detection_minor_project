@@ -8,4 +8,6 @@ Therefore, there is an urgent need for a robust and automated system that can ac
 This project aims to develop and implement a Convolutional Neural Network (CNN)-based solution for lung cancer detection. 
 The primary challenge is to create a deep learning model capable of analysing medical images with a high degree of accuracy, sensitivity, and specificity.
 
-# nbviewer link incase code block is not loading https://nbviewer.org/github/Parthbisht16/Lung_Cancer_Detection_minor_project/blob/main/lung_cancer_detection.ipynb
+nbviewer link incase code block is not loading https://nbviewer.org/github/Parthbisht16/Lung_Cancer_Detection_minor_project/blob/main/lung_cancer_detection.ipynb
+
+Dataset - https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images
